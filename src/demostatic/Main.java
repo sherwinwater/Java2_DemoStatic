@@ -36,3 +36,26 @@ public class Main {
     }
 
 }
+
+/*
+Static homework
+
+1.	Create a project called DemoStatic
+2.	Add a folder called content that contains a class called TheStatic
+3.	TheStatic contains a public String called name set to Fred.
+4.	In main method, create two TheStatic objecs, one and two
+a.	Print out one’s name and two’s name.
+b.	Change one’s name to Barney
+c.	Print out one’s and two’s name.
+5.	To TheStatic, add a public static String called company that is set to “ACME Inc”
+6.	In main method
+a.	Print out one’s and two’s company
+b.	Change one’s company to “ABC Inc”
+c.	Print out one’s and two’s company.
+d.	Use the class name(TheStatic) to change
+i.	The company to “XYZ Inc”
+e.	Print out one’s and two’s company
+f.	Use the class name(TheStatic) to change the name to Wilma.
+i.	What happens?		
+
+*/
